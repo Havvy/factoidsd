@@ -1,0 +1,7 @@
+[package]
+name = "factoidsd"
+version = "0.1.0"
+authors = ["Havvy <ryan.havvy@gmail.com>"]
+
+[dependencies]
+dirty_db = { path = "../dirty_db" }
